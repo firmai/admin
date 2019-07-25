@@ -1,4 +1,4 @@
-# admin
+# Admin
 
 ### Resources
 
